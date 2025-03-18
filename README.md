@@ -39,6 +39,13 @@ Abrir el archivo index.html en un navegador en linea. Luego escribir un nombre e
 hacer clic para agregarlo a la lista. Repetir el proceso para agregar los nombres que sean necesarios. 
 Una vez todos registrados, hacer clic en "Sortear Amigo", para elegir un participante al azar.
 
+<h3> Instalacion y ejecucion </h3>
+
+No se requiere instalacion. Simplemente clona el repositorio o descarga los archivos y abre index.html en cualquier navegador
+https://github.com/Eileen318/Proyecto-amigo-secreto/tree/master
+
+
+
 <h3> ❤ Mejoras Futuras </h3>
 
 -Mejorar la estetica y colores.
